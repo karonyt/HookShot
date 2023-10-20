@@ -1,0 +1,41 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "フックショットのアドオン\nMade by かろん",
+		"name": "Hook Shot v.1.20.30",
+		"uuid": "599f711a-c857-4b93-9790-0f3cfeec37fd",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			20,
+			30
+		]
+	},
+	"modules": [
+		{
+			"description": "",
+			"type": "script",
+			"entry": "scripts/index.js",
+			"uuid": "a74d138a-f001-4771-ae0f-e8feaf8040c8",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"module_name": "@minecraft/server",
+			"version": "1.6.0-beta"
+		},
+		{
+			"module_name": "@minecraft/server-ui",
+			"version": "1.2.0-beta"
+		}
+	]
+}

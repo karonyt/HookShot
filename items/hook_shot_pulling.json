@@ -1,0 +1,21 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:item": {
+      "description": {
+        "identifier": "karo:hook_shot_standby",
+        "category": "Equipment"
+      },
+  
+      "components": {
+        "minecraft:icon": {
+          "texture": "crossbow_pulling"
+        },
+        "minecraft:max_stack_size": 1,
+        "minecraft:hand_equipped": true,
+        "minecraft:foil": true,
+        "minecraft:display_name": {
+          "value": "ふっくしょっと(チャージ完了)"
+        }
+      }
+    }
+}
