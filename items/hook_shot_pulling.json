@@ -2,7 +2,7 @@
     "format_version": "1.16.100",
     "minecraft:item": {
       "description": {
-        "identifier": "karo:hook_shot_standby",
+        "identifier": "karo:hook_shot_pulling",
         "category": "Equipment"
       },
   
